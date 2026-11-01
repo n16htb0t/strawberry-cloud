@@ -155,6 +155,24 @@ img[alt="sticker"] { width: 30px; height: 30px; }
 .canvas-node:has(img) .canvas-node-container { border: 3px solid rgba(255,178,215,.7) !important; box-shadow: 0 0 0 5px rgba(168,216,255,.35) !important; }
 .canvas-node img { object-fit: cover; }
 
+
+/* calendar plugin */
+#calendar-container {
+  --color-background-heading: transparent; --color-background-day: transparent; --color-background-weekend: transparent;
+  --color-dot: var(--pink); --color-arrow: var(--pink); --color-button: var(--pink);
+  --color-text-title: var(--text-normal); --color-text-heading: var(--text-muted); --color-text-day: var(--text-normal); --color-text-today: var(--pink);
+  padding: 4px 6px;
+}
+#calendar-container .title .year { color: var(--pink); }
+#calendar-container th { font-size: 10px; letter-spacing: .08em; color: var(--blue); }
+#calendar-container .day { border-radius: 10px; transition: background .15s; }
+#calendar-container .day:hover { background: rgba(255,178,215,.18); }
+#calendar-container .day.today { background: rgba(255,178,215,.25); color: var(--pink); font-weight: 700; }
+#calendar-container .day.active, #calendar-container .day.active.today { background: var(--pink); color: var(--text-on-accent) !important; font-weight: 700; }
+#calendar-container .day.active .dot { fill: var(--text-on-accent); }
+#calendar-container .day.adjacent-month { opacity: .35; }
+#calendar-container .reset-button { color: var(--pink); border-radius: 999px; }
+#calendar-container .reset-button:hover { background: rgba(255,178,215,.18); }
 /* =========================================================
    hacker mode (style settings → strawberry cloud → hacker mode)
    ========================================================= */
