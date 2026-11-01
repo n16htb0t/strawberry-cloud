@@ -1,6 +1,6 @@
 # Strawberry Cloud ♡
 
-a soft pastel theme for obsidian: pink + baby blue, a faint pixel grid, lace and bows, candy-striped headings, heart checkboxes. light **and** dark mode, plus a hidden **hacker mode** for when you want it green on black.
+a soft pastel theme for obsidian: pink + baby blue, a faint pixel grid, lace and bows, candy-striped headings. light **and** dark mode, plus a hidden **hacker mode** for when you want it green on black.
 
 ![Strawberry Cloud](./screenshot.png)
 
