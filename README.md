@@ -1,8 +1,17 @@
 # Strawberry Cloud ♡
 
-> strawberries, clouds and a pixel grid. soft pastel pink + baby blue in light and dark, with a secret hacker mode.
+> 🍓 strawberries, clouds and a pixel grid. soft pastel pink + baby blue in light and dark, with a secret hacker mode.
 
-Strawberry Cloud turns your vault into a soft pastel dream. pink and baby-blue tones sit on a faint pixel grid, with lace trims, bows and candy-striped headings. cards are rounded with a candy-stripe edge, and your notes feel like strawberry milk on a cloudy morning.
+Strawberry Cloud is a soft pastel theme in pink and baby blue, with lace trims and candy-striped headings.
+
+- ☁️ light mode in cloud white, dark mode in deep plum
+- 🎀 easy banners and stickers for any image
+- 🗂️ card grids to build cute dashboards
+- 💌 pretty callouts and photo cards
+- 📅 a styled calendar sidebar
+- 🪶 lightweight: one 30 KB file, nothing loaded online
+- 💻 **the secret side:** turn on hacker mode in Style Settings and the pastel turns into green on black with code-rain banners
+- 🎁 free demo vault with a dashboard, diary, trips and vision board
 
 ![Strawberry Cloud](./screenshot.png)
 
